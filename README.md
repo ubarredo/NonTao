@@ -3,3 +3,4 @@ Prueba para la regulación del estacionamiento en una ciudad. Tras simular una a
 
 Inline-style: 
 ![alt text](https://github.com/ubarredo/NonTao/blob/master/plots/nontao_wait_time.png "Logo Title Text 1")
+![alt text](https://github.com/ubarredo/NonTao/blob/master/plots/nontao_free_prob.png "Logo Title Text 1")
